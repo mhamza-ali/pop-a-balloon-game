@@ -1,7 +1,10 @@
 # firebase-auth-implemented
 
 ## Authetication of user email and password
-
+#### 1. SignUp feature
+User can signup with email and password and can be autheticated.
+#### 1. LogIn feature
+User can signIn again with the credentials given during signup otherwise you are not allowed to login.
 ## Adding additional profile information
 
 Two additional informations can be added to the user information as follows:
