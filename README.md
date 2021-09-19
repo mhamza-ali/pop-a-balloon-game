@@ -1,4 +1,7 @@
-# auth-implemented
+# firebase-auth-implemented
+
+## Authetication of user email and password
+
 ## Adding additional profile information
 
 Two additional informations can be added to the user information as follows:
